@@ -1,21 +1,20 @@
 
-title: Dipan Roy
-email: dipanroy@mindwebs.org
+title: Aayush Agarwal
+email: ayush.agarwalmng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  If Content is King, Design is Queen, then Development is the Kingdom. Without Kingdom, King and Queen are nothing!
-  And I can help build your Empire!
+  A computer program does what you tell it to do, not what you want it to do.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  dipan29
+github_username:  KylixMedusa
 
 author:
-    name: Dipan Roy
-    email: dipanroy@mindwebs.org
+    name: Aayush Agarwal
+    email: ayush.agarwalmng@gmail.com
 social:
-  github: dipan29
-  instagram: dipanr29
-  facebook: dipan29
-  linkedin: dipan29
+  github: KylixMedusa
+  instagram: KylixMedusa
+  facebook: ayush.agarwalmng.com
+  linkedin: ayush.agarwalmng.com
 
 # Build settings
 theme: minima

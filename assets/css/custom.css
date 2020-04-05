@@ -8,7 +8,9 @@
     margin-right: -300vw;
     padding-right: 300vw;
 }
-  
+ body{
+	background-color:#e1b382;
+} 
   .bgimg-1, .bgimg-2, .bgimg-3 {
     position: relative;
     opacity: 0.85;
@@ -19,7 +21,7 @@
   
   }
   .bgimg-1 {
-    background-image: url("img_parallax.jpg");
+    background-image: url("header.jpg");
     min-height: 100%;
   }
   
